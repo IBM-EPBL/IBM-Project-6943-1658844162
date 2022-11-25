@@ -10,6 +10,15 @@ Management. While healthcare management has various use cases for using data sci
 
  This parameter helps hospitals to identify patients of high LOS-risk (patients who will stay longer) at the time of admission. Once identified, patients with high LOS risk can have their treatment plan optimized to minimize LOS and lower the chance of staff/visitor infection. Also, prior knowledge of LOS can aid in logistics such as room and bed allocation planning.
 
+## **Analytics for Hospitals' Health-Care Data**
+![Logo](https://cdn.dribbble.com/users/345283/screenshots/1566266/dribble-1.gif) 
+
+## 📝 Project Description
+ Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare
+Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
+
+ This parameter helps hospitals to identify patients of high LOS-risk (patients who will stay longer) at the time of admission. Once identified, patients with high LOS risk can have their treatment plan optimized to minimize LOS and lower the chance of staff/visitor infection. Also, prior knowledge of LOS can aid in logistics such as room and bed allocation planning.
+
  Suppose you have been hired as Data Scientist of Health Man – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner.
 
 ## 💻 Tech Stack
@@ -17,15 +26,10 @@ Management. While healthcare management has various use cases for using data sci
  - [Data Analysis with Python](https://en.wikipedia.org/wiki/Data_analysis)
  - [IBM Cloud](https://en.wikipedia.org/wiki/IBM_Cloud)
  - [IBM Watson](https://en.wikipedia.org/wiki/IBM_Watson)
- - [IBM Cognos Analytics](https://en.wikipedia.org/wiki/IBM_Cognos_Analytics)
 
+## 🔗 Project Demonstration Video Direct Link
+https://www.youtube.com/watch?v=LUH8I-aCbTk
 
-## 💡 Project Design and Planning
- - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Design%20%26%20Planning/1.Ideation%20Phase)
- - [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Design%20%26%20Planning/2.Project%20Design%20phase%20I)
- - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/blob/main/1.Ideation_phase/2.EmpathyMap.pdf)
- - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Design%20%26%20Planning/4.Project%20Planning)
- - [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Development%20Phase)
 
 ## 👍 Social Impact
  - Access to primary health care
