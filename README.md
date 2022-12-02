@@ -28,7 +28,7 @@ Management. While healthcare management has various use cases for using data sci
  - [IBM Watson](https://en.wikipedia.org/wiki/IBM_Watson)
 
 ## 🔗 Project Demonstration Video Direct Link
-https://www.youtube.com/watch?v=LUH8I-aCbTk
+https://youtu.be/ZKg1N4kekno
 
 
 ## 👍 Social Impact
